@@ -1,0 +1,22 @@
+
+	h1{
+	color: orange;
+	font-size: 90px;
+	text-decoration: underline;
+	}
+
+	h2{
+	font-size: 22px;
+	color: green;
+	}
+	.small{
+	font-size: 12px;
+	}
+	span{
+	font-style: italic;
+	}
+
+	h2 span{
+	text-decoration: line-through;
+	}
+	/* reads Spans inside all h2's*/
